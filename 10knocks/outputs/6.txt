@@ -1,0 +1,7 @@
+{'ar', 'ap', 'ra', 'se', 'pa', 'ad', 'di', 'is'}
+{'ar', 'gr', 'ap', 'ra', 'ph', 'pa', 'ag'}
+{'ar', 'ap', 'gr', 'ra', 'se', 'pa', 'ph', 'ag', 'ad', 'di', 'is'}
+{'pa', 'ap', 'ar', 'ra'}
+{'ad', 'is', 'se', 'di'}
+{'se'}
+set()
